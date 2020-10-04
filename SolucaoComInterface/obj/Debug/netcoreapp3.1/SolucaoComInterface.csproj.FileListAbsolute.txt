@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeInterface\SolucaoComInterface\SolucaoComInterface\bin\Debug\netcoreapp3.1\SolucaoComInterface.exe
+C:\ProgramasCSharp\ConceitoDeInterface\SolucaoComInterface\SolucaoComInterface\bin\Debug\netcoreapp3.1\SolucaoComInterface.deps.json
+C:\ProgramasCSharp\ConceitoDeInterface\SolucaoComInterface\SolucaoComInterface\bin\Debug\netcoreapp3.1\SolucaoComInterface.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeInterface\SolucaoComInterface\SolucaoComInterface\bin\Debug\netcoreapp3.1\SolucaoComInterface.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeInterface\SolucaoComInterface\SolucaoComInterface\bin\Debug\netcoreapp3.1\SolucaoComInterface.dll
+C:\ProgramasCSharp\ConceitoDeInterface\SolucaoComInterface\SolucaoComInterface\bin\Debug\netcoreapp3.1\SolucaoComInterface.pdb
+C:\ProgramasCSharp\ConceitoDeInterface\SolucaoComInterface\SolucaoComInterface\obj\Debug\netcoreapp3.1\SolucaoComInterface.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeInterface\SolucaoComInterface\SolucaoComInterface\obj\Debug\netcoreapp3.1\SolucaoComInterface.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeInterface\SolucaoComInterface\SolucaoComInterface\obj\Debug\netcoreapp3.1\SolucaoComInterface.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeInterface\SolucaoComInterface\SolucaoComInterface\obj\Debug\netcoreapp3.1\SolucaoComInterface.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeInterface\SolucaoComInterface\SolucaoComInterface\obj\Debug\netcoreapp3.1\SolucaoComInterface.dll
+C:\ProgramasCSharp\ConceitoDeInterface\SolucaoComInterface\SolucaoComInterface\obj\Debug\netcoreapp3.1\SolucaoComInterface.pdb
+C:\ProgramasCSharp\ConceitoDeInterface\SolucaoComInterface\SolucaoComInterface\obj\Debug\netcoreapp3.1\SolucaoComInterface.genruntimeconfig.cache
